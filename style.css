@@ -1,0 +1,21 @@
+body {
+  background-color: cadetblue;
+  font-family: monospace;
+  color: beige;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+#profile {
+	margin-top: 1em;
+}
+
+img.icon {
+  width: 10em;
+  height: 10em;
+  border: 1px solid whitesmoke;
+  border-radius: 50%;
+  box-shadow: 2px 2px 6px 5px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
